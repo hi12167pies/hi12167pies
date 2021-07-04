@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hi12167pies
 - 👀 I’m interested in minecraft and coding
-- 🌱 I’m currently learning HTML, PHP and Javascript / Node.js
+- 🌱 I’m currently learning HTML, CSS and Javascript / Node.js
 
 <!---
 hi12167pies/hi12167pies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
